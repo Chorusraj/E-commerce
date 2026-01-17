@@ -78,16 +78,16 @@ flutter run
 ## 📸 Screenshots
 
 ### Product List
-![Product List](screenshots/product_list.png)
+![Product List](assets/screenshots/product_list.png)
 
 ### Product Details
-![Product Details](screenshots/product_details.png)
+![Product Details](assets/screenshots/product_details.png)
 
 ### Cart Page
-![Cart Page](screenshots/cart_page.png)
+![Cart Page](assets/screenshots/cart_page.png)
 
 ### Cart Empty Page
-![Cart Empty Page](screenshots/cart_empty_page.png)
+![Cart Empty Page](assets/screenshots/cart_empty_page.png)
 
 > Make sure your screenshots are placed in the `screenshots/` folder at the repo root.
 
